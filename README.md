@@ -61,3 +61,10 @@ Simple Linear Regression Algorithm using R program
 
     [[5]]
     [1] 3934.13
+
+# Standard error in the prediciton 
+    if the error in the prediction is very less that means the prediction probability is very high
+    > result$sdError
+    [1] 63.22
+    
+    
