@@ -13,4 +13,10 @@ Simple Linear Regression Algorithm using R program
         _   __
     a = Y - bx
     
+    formula to find Standard error on the estimation
     
+    squareroot ( sum(y2) - z * sum(y) - b * sum(x*y)) / n-2 )
+    
+    
+    
+# Sample code to analysis Cognizant Stock    
