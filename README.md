@@ -2,6 +2,8 @@
 Simple Linear Regression Algorithm using R program
 
 # Formula
+    Creaetd the package for SLR algorithum using below formula
+    
     Y = ax + b
   
     where x is the future independent value
