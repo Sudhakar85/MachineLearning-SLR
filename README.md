@@ -43,7 +43,7 @@ Simple Linear Regression Algorithm using R program
     plot(x,y, xlab = "quarter",ylab = "sale")
     abline(a=result$a,b=result$b)
 
-    ![Preference](/Result.png?raw=true "Result")
+  ![Preference](/Result.png?raw=true "Result")
 
 # result$regressionLine
     This line list the outcome of next possible earining result for the 5 quarter 
